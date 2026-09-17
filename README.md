@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ItsmeEduu
-- 👀 I’m interested in Programador BACK-END (FULL-STACK)
-- 🌱 I’m currently learning PYTHON3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in FRONT-BACK END (FULL STACK)
+- 🌱 I’m currently learning C++, JavaScript, MySQL, HTML5, CSS3.
+
 
 <!---
 ItsmeEduu/ItsmeEduu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
