@@ -1,4 +1,4 @@
-## # 👨🏻‍💻 Eduardo Ferreira de Souza
+# 👨🏻‍💻 Eduardo Ferreira de Souza
 
 **`Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas`**
 
@@ -16,7 +16,7 @@ Tenho desenvolvido projetos envolvendo **C++, MySQL, HTML e CSS**, enquanto cont
 
 #### 💻 CPPeople — C++ + MySQL
 
-Sistema de cadastro de clientes desenvolvido em **C++**, com integração a banco de dados.
+Sistema de cadastro de clientes desenvolvido em **C++**, com integração ao **MySQL**.
 
 O projeto foi criado para colocar em prática conceitos de programação, manipulação de dados e integração entre aplicação e banco de dados.
 
@@ -122,12 +122,29 @@ Site vitrine responsivo desenvolvido para uma loja de eletrônicos, utilizando *
 
 ### 📫 Onde me encontrar
 
-<p>
+<p align="left">
+
   <a href="https://github.com/ItsmeEduu">
     <img 
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
     />
   </a>
+
+  <a href="https://www.linkedin.com/in/itsmeeduu/">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:duduferreira09@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
 </p>
 
 ---
@@ -137,3 +154,4 @@ Site vitrine responsivo desenvolvido para uma loja de eletrônicos, utilizando *
 Estou buscando minha **primeira oportunidade na área de tecnologia**, onde possa colocar meus conhecimentos em prática, aprender continuamente e contribuir para projetos reais.
 
 **Aprendendo na prática. Construindo projetos. Evoluindo todos os dias. 🚀**
+
